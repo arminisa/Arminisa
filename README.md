@@ -1,4 +1,4 @@
-# Hi, I'm [armin isa] 👋
+# Hi, I'm Armin Isa 👋
 
 Aspiring Network Engineer | Learning Linux & Python
 
@@ -13,5 +13,5 @@ Aspiring Network Engineer | Learning Linux & Python
 - Python Scripting
 
 ## Contact
-- LinkedIn: [ https://www.linkedin.com/in/armin-isa-59a62942b?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-- Email: [armin9352226@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/armin-isa-59a62942b
+- Email: armin9352226@gmail.com
