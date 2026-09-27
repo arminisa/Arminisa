@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [armin isa] 👋
 
-<!--
-**arminisa/Arminisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Network Engineer | Learning Linux & Python
 
-Here are some ideas to get you started:
+## About Me
+- 🎯 Goal: Build a career in network engineering and relocate to Europe
+- 📚 Currently learning: Network fundamentals, Linux, Python
+- 🛠️ Building: Hands-on network labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills (in progress)
+- Network Fundamentals
+- Linux Basics
+- Python Scripting
+
+## Contact
+- LinkedIn: [ https://www.linkedin.com/in/armin-isa-59a62942b?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- Email: [armin9352226@gmail.com]
